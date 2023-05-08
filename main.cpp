@@ -12,3 +12,5 @@ int main() {
         cout << b<<endl;
         b=n+a;
     }
+return 0;
+}
