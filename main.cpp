@@ -5,7 +5,7 @@ int main() {
     int a=0, b=1, n, F;
     cin >> n;
     F=n;
-    while(b<=F) {
+    while(b<F) {
 
         n=a;
         a=b;
